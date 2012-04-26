@@ -1,5 +1,5 @@
 package main
 
 func main() {
-	println("default")
+	println("go1.0.1")
 }
